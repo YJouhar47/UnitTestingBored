@@ -1,0 +1,17 @@
+D:\Software Testing\PermanenteEvaluatie\PRO2ST2223PE\bin\Debug\net6.0\PRO2ST2223PE.exe
+D:\Software Testing\PermanenteEvaluatie\PRO2ST2223PE\bin\Debug\net6.0\PRO2ST2223PE.deps.json
+D:\Software Testing\PermanenteEvaluatie\PRO2ST2223PE\bin\Debug\net6.0\PRO2ST2223PE.runtimeconfig.json
+D:\Software Testing\PermanenteEvaluatie\PRO2ST2223PE\bin\Debug\net6.0\PRO2ST2223PE.dll
+D:\Software Testing\PermanenteEvaluatie\PRO2ST2223PE\bin\Debug\net6.0\PRO2ST2223PE.pdb
+D:\Software Testing\PermanenteEvaluatie\PRO2ST2223PE\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Software Testing\PermanenteEvaluatie\PRO2ST2223PE\obj\Debug\net6.0\PRO2ST2223PE.csproj.AssemblyReference.cache
+D:\Software Testing\PermanenteEvaluatie\PRO2ST2223PE\obj\Debug\net6.0\PRO2ST2223PE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software Testing\PermanenteEvaluatie\PRO2ST2223PE\obj\Debug\net6.0\PRO2ST2223PE.AssemblyInfoInputs.cache
+D:\Software Testing\PermanenteEvaluatie\PRO2ST2223PE\obj\Debug\net6.0\PRO2ST2223PE.AssemblyInfo.cs
+D:\Software Testing\PermanenteEvaluatie\PRO2ST2223PE\obj\Debug\net6.0\PRO2ST2223PE.csproj.CoreCompileInputs.cache
+D:\Software Testing\PermanenteEvaluatie\PRO2ST2223PE\obj\Debug\net6.0\PRO2ST2223PE.csproj.CopyComplete
+D:\Software Testing\PermanenteEvaluatie\PRO2ST2223PE\obj\Debug\net6.0\PRO2ST2223PE.dll
+D:\Software Testing\PermanenteEvaluatie\PRO2ST2223PE\obj\Debug\net6.0\refint\PRO2ST2223PE.dll
+D:\Software Testing\PermanenteEvaluatie\PRO2ST2223PE\obj\Debug\net6.0\PRO2ST2223PE.pdb
+D:\Software Testing\PermanenteEvaluatie\PRO2ST2223PE\obj\Debug\net6.0\PRO2ST2223PE.genruntimeconfig.cache
+D:\Software Testing\PermanenteEvaluatie\PRO2ST2223PE\obj\Debug\net6.0\ref\PRO2ST2223PE.dll

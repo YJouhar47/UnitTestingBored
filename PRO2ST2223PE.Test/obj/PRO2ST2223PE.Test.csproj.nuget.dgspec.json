@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Software Testing\\PermanenteEvaluatie\\PRO2ST2223PE.Test\\PRO2ST2223PE.Test.csproj": {}
+  },
+  "projects": {
+    "D:\\Software Testing\\PermanenteEvaluatie\\PRO2ST2223PE.Test\\PRO2ST2223PE.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Software Testing\\PermanenteEvaluatie\\PRO2ST2223PE.Test\\PRO2ST2223PE.Test.csproj",
+        "projectName": "PRO2ST2223PE.Test",
+        "projectPath": "D:\\Software Testing\\PermanenteEvaluatie\\PRO2ST2223PE.Test\\PRO2ST2223PE.Test.csproj",
+        "packagesPath": "C:\\Users\\Youss\\.nuget\\packages\\",
+        "outputPath": "D:\\Software Testing\\PermanenteEvaluatie\\PRO2ST2223PE.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Youss\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Software Testing\\PermanenteEvaluatie\\PRO2ST2223PE\\PRO2ST2223PE.csproj": {
+                "projectPath": "D:\\Software Testing\\PermanenteEvaluatie\\PRO2ST2223PE\\PRO2ST2223PE.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.2, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Software Testing\\PermanenteEvaluatie\\PRO2ST2223PE\\PRO2ST2223PE.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Software Testing\\PermanenteEvaluatie\\PRO2ST2223PE\\PRO2ST2223PE.csproj",
+        "projectName": "PRO2ST2223PE",
+        "projectPath": "D:\\Software Testing\\PermanenteEvaluatie\\PRO2ST2223PE\\PRO2ST2223PE.csproj",
+        "packagesPath": "C:\\Users\\Youss\\.nuget\\packages\\",
+        "outputPath": "D:\\Software Testing\\PermanenteEvaluatie\\PRO2ST2223PE\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Youss\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
