@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Software Testing\\PermanenteEvaluatie\\PRO2ST2223PE\\PRO2ST2223PE.csproj": {}
+    "D:\\Software Testing\\PermanenteEvaluatie\\UnitTestingBored\\PRO2ST2223PE\\PRO2ST2223PE.csproj": {}
   },
   "projects": {
-    "D:\\Software Testing\\PermanenteEvaluatie\\PRO2ST2223PE\\PRO2ST2223PE.csproj": {
+    "D:\\Software Testing\\PermanenteEvaluatie\\UnitTestingBored\\PRO2ST2223PE\\PRO2ST2223PE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Software Testing\\PermanenteEvaluatie\\PRO2ST2223PE\\PRO2ST2223PE.csproj",
+        "projectUniqueName": "D:\\Software Testing\\PermanenteEvaluatie\\UnitTestingBored\\PRO2ST2223PE\\PRO2ST2223PE.csproj",
         "projectName": "PRO2ST2223PE",
-        "projectPath": "D:\\Software Testing\\PermanenteEvaluatie\\PRO2ST2223PE\\PRO2ST2223PE.csproj",
+        "projectPath": "D:\\Software Testing\\PermanenteEvaluatie\\UnitTestingBored\\PRO2ST2223PE\\PRO2ST2223PE.csproj",
         "packagesPath": "C:\\Users\\Youss\\.nuget\\packages\\",
-        "outputPath": "D:\\Software Testing\\PermanenteEvaluatie\\PRO2ST2223PE\\obj\\",
+        "outputPath": "D:\\Software Testing\\PermanenteEvaluatie\\UnitTestingBored\\PRO2ST2223PE\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Youss\\AppData\\Roaming\\NuGet\\NuGet.Config",
